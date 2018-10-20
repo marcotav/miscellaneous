@@ -2,8 +2,6 @@
 
 ![Image title](https://img.shields.io/badge/python-v3.6-blue.svg) ![image title](https://img.shields.io/badge/PuLP-1.6.0-orange.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg)
 
-<img align="left" width="80" src="https://img.shields.io/badge/python-v3.6-blue.svg">
-
 ### Notebook by [Marco Tavora](https://marcotavora.me/)
 
 ## Table of contents
