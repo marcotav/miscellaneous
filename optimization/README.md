@@ -27,8 +27,15 @@ The idea here is **not** to explain how to convert practical optimization proble
 
 We recall that a linear programming problem has the form (in this case, a minimization problem):
 
+<p align="center">
+  <img src="images/optimization_problem_form.png" width="200px"/></p>
+<p align="center">General linear optimization problem<p align="center">
+
+
+
+
 <br>
-<img align="center" width="300" src="images/optimization_problem_form.png">
+<img align="center" width="180" src="images/optimization_problem_form.png">
 <br>
 
 
